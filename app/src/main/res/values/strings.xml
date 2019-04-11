@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ForSuccess</string>
+
+    <string name="icon">Icon</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="date">Date</string>
+    <string name="version">Version</string>
+</resources>
